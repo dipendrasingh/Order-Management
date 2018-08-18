@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default navbar-fixed-top" style="background-color: rgba(21, 21, 21, 0.8)">
+<nav class="navbar navbar-default navbar-fixed-top" style="background-color: #33b5e5 !important;">
 	<div class="container">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed"
